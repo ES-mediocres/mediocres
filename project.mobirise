@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-09-12_1042",
+    "name": "The Mediocres Band",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
@@ -34,6 +34,14 @@
     "versionFirst": "5.6.5",
     "siteFonts": [],
     "imageResize": true,
+    "favicon": false,
+    "mbrsiteDomain": "8acwwxfqfq",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
     "uniqCompNum": 4,
     "versionPublish": "5.6.5"
   },
