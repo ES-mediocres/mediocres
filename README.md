@@ -1,0 +1,2 @@
+# mediocres
+GitHub Pages
